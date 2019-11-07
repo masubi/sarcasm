@@ -1,0 +1,4 @@
+sarcasm_data.json filter=lfs diff=lfs merge=lfs -text
+sarcasm_data_mustard.json filter=lfs diff=lfs merge=lfs -text
+sarcasm_kaggle.csv filter=lfs diff=lfs merge=lfs -text
+train-balanced-sarcasm.csv filter=lfs diff=lfs merge=lfs -text
