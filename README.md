@@ -9,7 +9,7 @@
 
 # References
 
-* ## Git Hub References
+## Git Hub References
 * https://github.com/AniSkywalker/SarcasmDetection
 * https://github.com/Mandar-Kulkarni/Sarcasm-Detection-in-Tweets
 * https://github.com/soujanyaporia/MUStARD
