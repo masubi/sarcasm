@@ -3,3 +3,9 @@
 .ipynb_checkpoints/*.ipynb
 data/*.csv
 data/*.gz
+data/*.txt
+data/*.vec
+data/sentiment/*.csv
+data/sentiment/*.txt
+data/sentiment/*.vec
+logs

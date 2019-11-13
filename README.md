@@ -1,5 +1,23 @@
-# sarcasm
+# Description
 
+This project reproduces the findings of several papers(see below) on detecting sarcasm in short utterances.
+
+# Process/Results
+Initial versions used only a small amount of data e.g. 20k rows.  Using random short utterances did not yield
+very convincing results.  Subsequent version included 2 millions rows and not unsurprisingly had significantly better results.
+
+![TrainResults](images/v5_10epochs_train_results.png "Train Results")
+
+# Future work
+
+## Specific technique improvements
+* training w/ > 10 epochs(stopped at 10)
+* use holdout set instead of just train/test
+* shuffling train/test/holdout data
+
+## Ideas for Sarcasm improvements in general
+* annotating w/ sentiment
+* adding context to the model(and sentiment of context)
 
 # Data Sources:
 * data/sarcasm_data.json = https://www.coursera.org/learn/natural-language-processing-tensorflow

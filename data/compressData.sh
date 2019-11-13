@@ -9,3 +9,8 @@ tar -czf sarcasm_kaggle.gz sarcasm_kaggle.csv
 split -b 45mb sarcasm_kaggle.gz "sarcasm_kaggle.part"
 rm sarcasm_kaggle.gz
 rm sarcasm_kaggle.csv
+
+tar -cvzf sentiment.gz sentiment
+split -b 45mb sentiment.gz "sentiment.part"
+rm sentiment.gz
+rm -rf sentiment
