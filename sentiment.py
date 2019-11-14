@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
 
 from __future__ import absolute_import
 from __future__ import print_function
@@ -23,6 +28,9 @@ from collections import defaultdict
 from keras.callbacks import EarlyStopping, ModelCheckpoint, RemoteMonitor
 
 
+# In[2]:
+
+
 # labeling variables
 model_name = datetime.datetime.now().strftime("twitter_sentiment.%Y%m%dT%H%M.v")
 np.random.seed(1337)  # for reproducibility
@@ -35,15 +43,15 @@ max_features = 5003
 maxlen = 100  # cut texts after this number of words (among top max_features most common words)
 
 # TODO:  fill in w/ data
-TRAIN_DATASET = [""] #e.g. ["/home/masubi/jupyter/training.1600000.processed.noemoticon.csv"]
-TEST_DATASET = [""]  #e.g. ["/home/masubi/jupyter/testdata.manual.csv"]
+TRAIN_DATASET = ["./data/sentiment/training.1600000.processed.noemoticon.csv"] #e.g. ["/home/masubi/jupyter/training.1600000.processed.noemoticon.csv"]
+TEST_DATASET = ["./data/sentiment/testdata.manual.2009.06.14.csv"]  #e.g. ["/home/masubi/jupyter/testdata.manual.csv"]
 DICTIONARY = ""      #e.g. "/home/masubi/jupyter/dictionary.json"
-WORD_EMBEDDINGS = "" #e.g. "/home/masubi/fastText/result/twitter_corpus.vec"
+WORD_EMBEDDINGS = "./data/sentiment/twitter_corpus.vec" #e.g. "/home/masubi/fastText/result/twitter_corpus.vec"
 
 
 #If use w/ existing models
 load_weights=False
-weights_file=""
+weights_file="model_name"+'-weights.hdf5'
 
 # sample for training index
 # I do this because the big twitter training set is sorted by label.
@@ -58,11 +66,7 @@ def file_gen(file_path):
         df = df.ix[(df.label.notnull()) & (df.tweet.str.count(" ") > 3), :]
         df['tweet'] = df.tweet.astype(str).str.lower()             .str.replace("[_-]", ' ')             .str.replace("\'", '')             .str.replace("\.", ' ')             .str.replace("at&amp;t", "at&t")
         yield df
-
-
-# In[18]:
-
-
+        
 #
 # word embeddings
 #
@@ -95,6 +99,10 @@ word_to_index, index_to_word, word_to_vec_map = read_glove_vecs(WORD_EMBEDDINGS)
 print("word_to_index shape: "+str(len(word_to_index)))
 print("index_to_word shape: "+str(len(index_to_word)))
 print("word_to_vec_map shape: "+str(len(word_to_vec_map)))
+
+
+# In[3]:
+
 
 
 # In[4]:
@@ -262,6 +270,9 @@ print("One x_Test Example:\n", x_test[0, :])
 print("One y_Test Example:\n", y_test[0])
 
 
+# In[ ]:
+
+
 # In[7]:
 
 
@@ -401,10 +412,10 @@ print('Training...')
 
 checkpointer = ModelCheckpoint(filepath='./'+model_name+'-weights.hdf5', verbose=2, save_best_only=True)
 
-tensorboard = TensorBoard(log_dir='./logs/'+model_name, 
-                          histogram_freq=0,
-                          write_graph=True, 
-                          write_images=True)
+#tensorboard = TensorBoard(log_dir='./logs/'+model_name, 
+#                          histogram_freq=0,
+#                          write_graph=True, 
+#                          write_images=True)
 
 
 history = model.fit(x_train, 
@@ -413,7 +424,8 @@ history = model.fit(x_train,
                     epochs=epochs, 
                     verbose=1, 
                     validation_data=(x_holdout, y_holdout), 
-                    callbacks=[checkpointer, tensorboard])
+#                    callbacks=[checkpointer, tensorboard])
+                     callbacks=[checkpointer])
     
 print('Training complete')
 
@@ -506,4 +518,10 @@ print('Save Model')
 model.save_weights(model_name+".hdf5", overwrite=True)
 yaml_string = model.to_yaml()
 open(model_name+'.yaml', 'w+').write(yaml_string)
+
+
+# In[ ]:
+
+
+
 
