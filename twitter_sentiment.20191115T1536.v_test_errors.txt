@@ -1,0 +1,64 @@
+i: 1 pred: [0.55840904] actual: [0] sentence:  we tried but time warner wasnt being nice so we recorded today :)
+i: 4 pred: [0.6795403] actual: [0] sentence:  awaiting the arrival of the time warner guy its way too pretty to be inside all afternoon
+i: 10 pred: [0.68162537] actual: [0] sentence:  if youre being by calls about your car changing your number wont fix that they call every number bags
+i: 14 pred: [0.772526] actual: [0] sentence:  i say we just cut out the small new f k give us your money to bob )
+i: 19 pred: [0.6622038] actual: [0] sentence:  glad you got the phone! damn
+i: 21 pred: [0.9482498] actual: [0] sentence:  talk is bing stick with google
+i: 23 pred: [0.02311453] actual: [1] sentence:  have google profiles stopped showing up in cant see them anymore
+i: 28 pred: [0.8981887] actual: [0] sentence:  the real /
+i: 35 pred: [0.12597054] actual: [1] sentence:  reading fail
+i: 43 pred: [0.09019226] actual: [1] sentence:  lebron is shit
+i: 44 pred: [0.16521502] actual: [1] sentence:  lebron is a and he is only 24 smh the world aint ready
+i: 47 pred: [0.65279883] actual: [0] sentence:  kobe is the best in the world not lebron
+i: 72 pred: [0.6290482] actual: [0] sentence:  f*** up or go home
+i: 74 pred: [0.1434471] actual: [1] sentence:  i cant going to see star trek tonight!!
+i: 78 pred: [0.5172011] actual: [0] sentence:  is a genius at people into not realizing hes a fucking idiot
+i: 81 pred: [0.10667759] actual: [1] sentence:  i seriously i want to meet this dude
+i: 86 pred: [0.83466196] actual: [0] sentence:  the twitter limit
+i: 88 pred: [0.5759167] actual: [0] sentence:  arg twitter is making me crazy
+i: 104 pred: [0.10228992] actual: [1] sentence:  help with taking care of sick child
+i: 108 pred: [0.48270512] actual: [1] sentence:  tips deadlines and essay topics 2009 2010
+i: 111 pred: [0.7069688] actual: [0] sentence:  north korea is in
+i: 112 pred: [0.91873014] actual: [0] sentence:  wat the heck is north korea they just powerful nuclear follow the msn
+i: 113 pred: [0.79397476] actual: [0] sentence:  listening to friggin north korea
+i: 114 pred: [0.65807414] actual: [0] sentence:  i just realized we three monkeys in the white sarah
+i: 122 pred: [0.3130253] actual: [1] sentence:  stopped to have lunch at mcdonalds chicken :)
+i: 123 pred: [0.45288023] actual: [1] sentence:  could go for a lot of mcdonalds i mean a lot
+i: 127 pred: [0.50003564] actual: [0] sentence:  colin rocked yesterday on needs to shut the hell up and go home is a man of honor and served our country
+i: 144 pred: [0.9389485] actual: [0] sentence:  saw night at the museum out of sheer who is funding these
+i: 150 pred: [0.90690553] actual: [0] sentence:  back from seeing star trek and night at the museum star trek was but night at the museum eh
+i: 154 pred: [0.4467073] actual: [1] sentence:  up! was sold so im seeing night at the museum 2 im years old
+i: 157 pred: [0.5568256] actual: [0] sentence:  as u may have not too happy about the nor et al
+i: 160 pred: [0.57524115] actual: [0] sentence:  i will never buy a government until just i drove cars since when i bought a
+i: 163 pred: [0.8744534] actual: [0] sentence:  give a man a u feed him for the day teach him to u feed him for life buy him and u him over for good
+i: 164 pred: [0.5218908] actual: [0] sentence:  the more i hear about this thing the more angry i get more bullshit all for something like employees and all the
+i: 165 pred: [0.7865722] actual: [0] sentence:  i own a car and it is junk as far as quality compared to a
+i: 171 pred: [0.78122044] actual: [0] sentence:  i am furious with time warner and their phone
+i: 175 pred: [0.88934207] actual: [0] sentence:  having some time warner
+i: 178 pred: [0.76602703] actual: [0] sentence:  rt new time warner where we make you long for the days before cable
+i: 181 pred: [0.2829586] actual: [1] sentence:  to head hong kong
+i: 186 pred: [0.19632104] actual: [1] sentence:  yankees won mets lost its a good day
+i: 187 pred: [0.35299176] actual: [1] sentence:  my dentist appt today was actually quite enjoyable
+i: 189 pred: [0.07404682] actual: [1] sentence:  i had a dentist appt this morning and had the same
+i: 193 pred: [0.31117076] actual: [1] sentence:  check this video out david after dentist
+i: 194 pred: [0.12049705] actual: [1] sentence:  first dentist appointment on wednesday possibly
+i: 199 pred: [0.01026616] actual: [1] sentence:  dropped her broccoli walking home from ;( so depressed
+i: 200 pred: [0.26276234] actual: [1] sentence:  we dont have safeway
+i: 208 pred: [0.29650074] actual: [1] sentence:  eating taco bell and watching before work tonight need help staying awake
+i: 218 pred: [0.3509835] actual: [1] sentence:  that looks an awful lot like one of private im just sayin
+i: 223 pred: [0.3329362] actual: [1] sentence:  im ready to drop the i am forever in love with and i want to marry it sorry this nerd is jquery js
+i: 224 pred: [0.1915521] actual: [1] sentence:  this is cold i was looking at and found this jquery for the
+i: 229 pred: [0.15789029] actual: [1] sentence:  im truly i couldnt come up with name to save my soul
+i: 236 pred: [0.77966297] actual: [0] sentence:  although todays keynote for every great shit on us just a little bit more
+i: 238 pred: [0.33635163] actual: [1] sentence:  oh i see i thought were
+i: 240 pred: [0.8949201] actual: [0] sentence:  is more fun than ;p ball
+i: 241 pred: [0.8321837] actual: [0] sentence:  today is a good day to dislike vote out of office
+i: 244 pred: [0.46111634] actual: [1] sentence:  i hope the girl at work buys my
+i: 245 pred: [0.34752226] actual: [1] sentence:  missed this filled may one smart guy looking at why hes impressed with
+i: 251 pred: [0.46331733] actual: [1] sentence:  my primary debit card is visa
+i: 253 pred: [0.6094705] actual: [0] sentence:  dearest you rich the visa card you sent me doesnt work why screw a little guy like me?
+i: 258 pred: [0.01710856] actual: [1] sentence:  my dad was in ny for a we ate at grill last night and met bobby so much except i completely lost my voice today
+i: 259 pred: [0.701913] actual: [0] sentence:  we love you too and dont want you to latex = the devil
+i: 262 pred: [0.7808522] actual: [0] sentence:  shits hitting the fan in craziness indeed
+i: 263 pred: [0.9612377] actual: [0] sentence:  monday already may kitchen is a disaster seems happy had a nice weekend and is great whoop
+i: 268 pred: [0.56120116] actual: [0] sentence:  i just created my first latex file from scratch that didnt work out very well (see its a great time

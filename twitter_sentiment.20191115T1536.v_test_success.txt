@@ -1,0 +1,212 @@
+i: 0 pred: [0.02931038] actual: [0] sentence:  time warner cable phone r than ugh! cable was working 10 mins ago now its not wtf!
+i: 2 pred: [0.03153121] actual: [0] sentence:  omg time warner fed up my internet install instead of today its now next saturday another week w/o internet! fml
+i: 3 pred: [0.03412279] actual: [0] sentence:  wth i have never seen a line this loooong at time warner ugh
+i: 5 pred: [0.7364746] actual: [1] sentence:  man during french open
+i: 6 pred: [0.1509605] actual: [0] sentence:  using em for text really frustrating
+i: 7 pred: [0.5482851] actual: [1] sentence:  we went to university today got a tour made me want to go back to college its also decided all of our kids will go there
+i: 8 pred: [0.8547371] actual: [1] sentence:  pending on death of prof / google tip
+i: 9 pred: [0.7539624] actual: [1] sentence:  im going to bed it was a successful weekend here i come
+i: 11 pred: [0.1896277] actual: [0] sentence:  just blocked united blood services using google voice they call more than those car warranty guys
+i: 12 pred: [0.3148265] actual: [0] sentence:  oh snap you work at dont you
+i: 13 pred: [0.02851772] actual: [0] sentence:  i really dont want phone service they suck when it comes to having a signal
+i: 15 pred: [0.01963228] actual: [0] sentence:  pissed about mid contract upgrade price for the iphone $200 im not going to pay for something i thought was
+i: 16 pred: [0.08475605] actual: [0] sentence:  safari 4 is fast :) even on my shitty
+i: 17 pred: [0.43099692] actual: [0] sentence:  what is fucking up?
+i: 18 pred: [0.00687468] actual: [0] sentence:  dropped the ball and isnt supporting crap with the new iphone 3 0 fail sucks!!!
+i: 20 pred: [0.9402257] actual: [1] sentence:  google wave developer account request
+i: 22 pred: [0.19788474] actual: [0] sentence:  wtf is the point of deleting tweets if they can still be found in and please fix that thanks and bye
+i: 24 pred: [0.96791315] actual: [1] sentence:  i love google too ! good day mate !
+i: 25 pred: [0.96163213] actual: [1] sentence:  reading on my new
+i: 26 pred: [0.95086396] actual: [1] sentence:  my came and i love it! :)
+i: 27 pred: [0.9846772] actual: [1] sentence:  loving my new named her in case u were wondering the is the tool cuz it tells u all the best gift
+i: 29 pred: [0.8391161] actual: [1] sentence:  any twitter to apps yet?
+i: 30 pred: [0.8810035] actual: [1] sentence:  45 you should be following on twitter
+i: 31 pred: [0.98486257] actual: [1] sentence:  is quite a good check out his dinner speech on :) very funny jokes
+i: 32 pred: [0.96374416] actual: [1] sentence:  shows his funny side &gt;&gt; !! great speech
+i: 33 pred: [0.886374] actual: [1] sentence:  i like this guy : shows his funny side &gt;&gt; !!
+i: 34 pred: [0.8814335] actual: [1] sentence:  speech was pretty awesome last night!
+i: 36 pred: [0.9147624] actual: [1] sentence:  more popular than u s among president popularity in leading countries
+i: 37 pred: [0.91604865] actual: [1] sentence:  got haha just got to watch a bit of his after dinner speech from last night im in love with mr president ;)
+i: 38 pred: [0.19529676] actual: [0] sentence:  lebron james got in a car accident i guess just heard it on evening news wow i cant believe it will he be ok ?
+i: 39 pred: [0.60487753] actual: [1] sentence:  is it me or is this the best the playoffs have been in years oh yea lebron and in the finals
+i: 40 pred: [0.9330763] actual: [1] sentence:  lebron is the best
+i: 41 pred: [0.9675435] actual: [1] sentence:  @the real usher lebron is cool i like his he has good character
+i: 42 pred: [0.93209094] actual: [1] sentence:  watching lebron highlights damn that niggas good
+i: 45 pred: [0.70252866] actual: [1] sentence:  when lebron is done in the nba he will probably be greater than kobe like u said kobe is good but there alot of good players
+i: 46 pred: [0.89826334] actual: [1] sentence:  kobe is good bt lebron has my vote
+i: 48 pred: [0.96899563] actual: [1] sentence:  world cup 2010 thats a good look!
+i: 49 pred: [0.9516951] actual: [1] sentence:  just bought my tickets for the 2010 fifa world cup in south africa its going to be a great summer
+i: 50 pred: [0.706768] actual: [1] sentence:  fred slides for his talk at google
+i: 51 pred: [0.3120873] actual: [0] sentence:  i have to go to allen for a 2hr meeting but then i get to go home :)
+i: 52 pred: [0.9624453] actual: [1] sentence:  the great indian truly will from may the result day for indian general election
+i: 53 pred: [0.65143865] actual: [1] sentence:  i have the ive seen pictures of the but havent seen it in person i love my kindle im on it everyday
+i: 54 pred: [0.9734064] actual: [1] sentence:  such an awesome idea the learning program with a
+i: 55 pred: [0.58460057] actual: [1] sentence:  ok do nothing just thinking about
+i: 56 pred: [0.96097934] actual: [1] sentence:  what model are you i have the and love love love love it!
+i: 57 pred: [0.71648145] actual: [1] sentence:  the times of the wonder that is election
+i: 58 pred: [0.97861594] actual: [1] sentence:  good video from google on using search options
+i: 59 pred: [0.02446437] actual: [0] sentence:  lol ah my skin is itchy damn
+i: 60 pred: [0.21579608] actual: [0] sentence:  itchy back!! dont ya hate it!
+i: 61 pred: [0.92295384] actual: [1] sentence:  charity fashion show a top draw
+i: 62 pred: [0.8671442] actual: [1] sentence:  facebook profile is one of the most popular official university pages
+i: 63 pred: [0.5168275] actual: [1] sentence:  sooo dissapointed they sent danny gokey home you still rock danny my hometown hero !! yeah
+i: 64 pred: [0.97016644] actual: [1] sentence:  rt american idol adam lambert tones danny gokey cute
+i: 65 pred: [0.9314655] actual: [1] sentence:  @dannygokey i love you danny :)
+i: 66 pred: [0.6036084] actual: [1] sentence:  rt rt now instantly sends accident location to | obsessed
+i: 67 pred: [0.02670994] actual: [0] sentence:  so tired i didnt sleep well at all last night
+i: 68 pred: [0.33232868] actual: [0] sentence:  boarding plane for san in 1 6 hr flight
+i: 69 pred: [0.05811134] actual: [0] sentence:  san my back hurts from last night
+i: 70 pred: [0.701459] actual: [1] sentence:  breakers in san ca t
+i: 71 pred: [0.90105677] actual: [1] sentence:  with my best girl for a few more hours in san is
+i: 73 pred: [0.8207822] actual: [1] sentence:  went to see the star trek movie last night very satisfying
+i: 75 pred: [0.97220945] actual: [1] sentence:  star trek was as good as everyone
+i: 76 pred: [0.97756696] actual: [1] sentence:  am loving new book
+i: 77 pred: [0.8837103] actual: [1] sentence:  i highly recommend the tipping point my next will probably be one of his as well
+i: 79 pred: [0.12285098] actual: [0] sentence:  hey no offense but is a annoying and he brings you down cant read his shit
+i: 80 pred: [0.95414793] actual: [1] sentence:  rt great article by
+i: 82 pred: [0.01284558] actual: [0] sentence:  i hate comcast right now everything is down cable internet &amp; phone ughh what am i to do
+i: 83 pred: [0.4602166] actual: [0] sentence:  the day i never have to deal with comcast again will rank as one of the best days of my life
+i: 84 pred: [0.10645479] actual: [0] sentence:  did comcast fail again??
+i: 85 pred: [0.9100345] actual: [1] sentence:  how do you use the twitter
+i: 87 pred: [0.27997738] actual: [0] sentence:  now i can see why dave screams about lack of twitter its and access
+i: 89 pred: [0.85400915] actual: [1] sentence:  testing twitter remote update
+i: 90 pred: [0.9510503] actual: [1] sentence:  im really loving the new search site makes google seem so
+i: 91 pred: [0.19068572] actual: [0] sentence:  alpha sucks! even for the information provided is less than you can get from #google or totally
+i: 92 pred: [0.85023355] actual: [1] sentence:  off to the nike
+i: 93 pred: [0.8497366] actual: [1] sentence:  new nike muppet commercials are pretty cute why do we live together again?
+i: 94 pred: [0.93586373] actual: [1] sentence:  new blog post: nike zoom lebron soldier 3 white / black
+i: 95 pred: [0.929424] actual: [1] sentence:  new blog post: nike trainer 1
+i: 96 pred: [0.0762018] actual: [0] sentence:  oh those are awesome! i so wish they werent owned by nike
+i: 97 pred: [0.88546824] actual: [1] sentence:  awesome!!! seeing the show friday at the never seen before cant wait
+i: 98 pred: [0.02406842] actual: [0] sentence:  its bug = and i spent almost two hours to find that out crappy me
+i: 99 pred: [0.93572766] actual: [1] sentence:  hey bud :) i do so love my although id love a more
+i: 100 pred: [0.6502458] actual: [1] sentence:  just got us a for the office
+i: 101 pred: [0.97734666] actual: [1] sentence:  just picked up my new canon its prepare for some seriously awesome
+i: 102 pred: [0.97832906] actual: [1] sentence:  just got my new toy canon love love love it!
+i: 103 pred: [0.798375] actual: [1] sentence:  learning about calculus :)
+i: 105 pred: [0.52513695] actual: [1] sentence:  im moving to east
+i: 106 pred: [0.9578345] actual: [1] sentence:  @ i just finished watching your iphone class session i really appreciate it you
+i: 107 pred: [0.9713385] actual: [1] sentence:  hi! just saw your talk and really liked your advice just saying hi from singapore (yes the videos do get
+i: 109 pred: [0.72084653] actual: [1] sentence:  ethics and
+i: 110 pred: [0.8955033] actual: [1] sentence:  will the lakers kick the nuggets ass tonight?
+i: 115 pred: [0.30676562] actual: [0] sentence:  should stay in china and never come back
+i: 116 pred: [0.2505787] actual: [0] sentence:  gave the worst commencement speech ive ever heard yes im still bitter about this
+i: 117 pred: [0.03512546] actual: [0] sentence:  ugh the amount of times these stupid insects have bitten me grr
+i: 118 pred: [0.7835311] actual: [1] sentence:  insects ever pink
+i: 119 pred: [0.05428094] actual: [0] sentence:  just got by a horde of insects hungry for my kitchen light so scary
+i: 120 pred: [0.83063567] actual: [1] sentence:  just had mcdonalds for dinner it was goooood big mac meal ;)
+i: 121 pred: [0.8738649] actual: [1] sentence:  ahh yes lol ima tell my hubby to go get me sum mcdonalds =]
+i: 124 pred: [0.7322267] actual: [1] sentence:  my exam went good your prayers worked (:
+i: 125 pred: [0.90248394] actual: [1] sentence:  only one exam and i am so happy for it
+i: 126 pred: [0.12541422] actual: [0] sentence:  math review im going to fail the exam
+i: 128 pred: [0.33085263] actual: [0] sentence:  obviously not with here:
+i: 129 pred: [0.89767945] actual: [1] sentence:  absolutely from
+i: 130 pred: [0.74920285] actual: [1] sentence:  i never did thank you for including me in your top 100 twitter you (&amp; i new wave :
+i: 131 pred: [0.9268719] actual: [1] sentence:  learning jquery 1 3 book review
+i: 132 pred: [0.97027683] actual: [1] sentence:  rt awesome jquery reference book for
+i: 133 pred: [0.7849289] actual: [1] sentence:  ive been sending e mails like crazy today to my contacts does anyone have a contact at id love to speak to them
+i: 134 pred: [0.7960638] actual: [1] sentence:  adobe commercial by
+i: 135 pred: [0.9702378] actual: [1] sentence:  new site i enjoy it
+i: 136 pred: [0.941995] actual: [1] sentence:  wow everyone at the google conference got free with a month of unlimited service
+i: 137 pred: [0.91482306] actual: [1] sentence:  dood i got a free google android phone at the conference the
+i: 138 pred: [0.8686125] actual: [1] sentence:  the is amazing a huge improvement over the g1
+i: 139 pred: [0.9726491] actual: [1] sentence:  html 5 lots of great stuff to come! im excited :) com
+i: 140 pred: [0.9836732] actual: [1] sentence:  yay! happy place! place place! i love
+i: 141 pred: [0.9508469] actual: [1] sentence:  | bringing 3d graphics to the browser very nice tbh
+i: 142 pred: [0.96024704] actual: [1] sentence:  awesome viral marketing for nbc
+i: 143 pred: [0.55454075] actual: [1] sentence:  watching a programme about the life of its only my of history
+i: 145 pred: [0.9813571] actual: [1] sentence:  night at the museum 2? pretty good
+i: 146 pred: [0.9640992] actual: [1] sentence:  watching night at the museum
+i: 147 pred: [0.6193328] actual: [1] sentence:  i went to see night at the museum 2 today and i was so surprised to see three cast members from the office
+i: 148 pred: [0.96170735] actual: [1] sentence:  about to watch night at the museum with ryan and
+i: 149 pred: [0.895239] actual: [1] sentence:  getting ready to go watch night at the museum 2 you give me gum
+i: 151 pred: [0.9611285] actual: [1] sentence:  just watched night at the museum 2! so stinkin cute!
+i: 152 pred: [0.92247486] actual: [1] sentence:  night at the museum 2 was awesome! much better than part 1 next weekend well see up
+i: 153 pred: [0.96815026] actual: [1] sentence:  i think i may have a new favorite restaurant on our way to see at the museum
+i: 155 pred: [0.9546182] actual: [1] sentence:  saw the new night at the museum and i loved it next is to go see up in 3d
+i: 156 pred: [0.15602136] actual: [0] sentence:  it is a shame about what if they are forced to make only cars the white house thinks will what do you think?
+i: 158 pred: [0.55820763] actual: [1] sentence:  of to be short term
+i: 159 pred: [0.00915918] actual: [0] sentence:  good sad though
+i: 161 pred: [0.08817324] actual: [0] sentence:  having the old guy on the board is stupid has #tcot
+i: 162 pred: [0.219659] actual: [0] sentence:  the worst thing about / pleasant hill / is the fucking
+i: 166 pred: [0.01493469] actual: [0] sentence:  is upset about the whole thing life as i know it is so screwed up
+i: 167 pred: [0.02100134] actual: [0] sentence:  whoever is running time warner needs to be repeatedly raped by a so they understand the consequences of putting out shitty cable
+i: 168 pred: [0.93212295] actual: [1] sentence:  time warner at online fees for magazines read from mountain states views
+i: 169 pred: [0.1770345] actual: [0] sentence:  joining a bit late my connection was down time
+i: 170 pred: [0.42957675] actual: [0] sentence:  or time is cheaper and gets a b on is more expensive and gets a c
+i: 172 pred: [0.13034868] actual: [0] sentence:  just got home from chick a with the boys damn my internets down =( stupid time warner
+i: 173 pred: [0.07687595] actual: [0] sentence:  could time warner cable suck more? no
+i: 174 pred: [0.01236594] actual: [0] sentence:  pissed at time warner for me to have slow internet problems
+i: 176 pred: [0.07215473] actual: [0] sentence:  you guys see this? why does time warner have to suck so much really wish i could get u verse at my apartment
+i: 177 pred: [0.23934653] actual: [0] sentence:  rt the upside to time phone on site service thats not an upside
+i: 179 pred: [0.33030534] actual: [0] sentence:  its time not that fb is taking about 3 minutes to load so tempted to switch to verizon =/
+i: 180 pred: [0.11362222] actual: [0] sentence:  time warner = epic fail
+i: 182 pred: [0.88632274] actual: [1] sentence:  weird piano guitar house in
+i: 183 pred: [0.95797116] actual: [1] sentence:  send us your photos
+i: 184 pred: [0.02922684] actual: [0] sentence:  i know how sad is that? rt 1st day of hurricane season thats less than govt taking over
+i: 185 pred: [0.07474026] actual: [0] sentence:  files not a good sign
+i: 188 pred: [0.01586166] actual: [0] sentence:  i hate the effing dentist
+i: 190 pred: [0.03431156] actual: [0] sentence:  @kirstiealley i hate going to the dentist !!!
+i: 191 pred: [0.11375743] actual: [0] sentence:  i hate the dentist who invented them
+i: 192 pred: [0.13017946] actual: [0] sentence:  this dentists office is cold :/
+i: 195 pred: [0.88918954] actual: [1] sentence:  tom latest column on and its baseball
+i: 196 pred: [0.9487754] actual: [1] sentence:  baseball america blog ? blog
+i: 197 pred: [0.801612] actual: [1] sentence:  portland city politics may undo baseball park
+i: 198 pred: [0.6068057] actual: [1] sentence:  rt ca water bottled by at a wells are drying up across the county
+i: 201 pred: [0.72088724] actual: [1] sentence:  just applied at
+i: 202 pred: [0.1665906] actual: [0] sentence:  @ safeway place is a nightmare right now
+i: 203 pred: [0.11808398] actual: [0] sentence:  hate safeway select green tea bought two what a waste of money &gt; &lt;
+i: 204 pred: [0.9173174] actual: [1] sentence:  safeway with and auntie
+i: 205 pred: [0.8660356] actual: [1] sentence:  safeway offering mobile coupons
+i: 206 pred: [0.83662933] actual: [1] sentence:  driving in the with the top down in win 5 3
+i: 207 pred: [0.7963699] actual: [1] sentence:  saved money by for grocery store trip and food in hotel room fridge vs eating out every night while out of town
+i: 209 pred: [0.75767314] actual: [1] sentence:  eating breakfast and then school
+i: 210 pred: [0.95843214] actual: [1] sentence:  10 tips for healthy eating ? fitness blog :: fitness
+i: 211 pred: [0.9241365] actual: [1] sentence:  with the eating a
+i: 212 pred: [0.94515705] actual: [1] sentence:  eating dinner and
+i: 213 pred: [0.9675194] actual: [1] sentence:  got a new pair of nike shoes pics up later
+i: 214 pred: [0.91710854] actual: [1] sentence:  nike blazer high custom brad
+i: 215 pred: [0.9630928] actual: [1] sentence:  nike rocks im super grateful for what ive done with them :) &amp; the european of nike is
+i: 216 pred: [0.8989059] actual: [1] sentence:  nike air release
+i: 217 pred: [0.7418765] actual: [1] sentence:  have you tried nike ? v addictive
+i: 219 pred: [0.9315686] actual: [1] sentence:  the nike training club iphone app looks very interesting
+i: 220 pred: [0.04352033] actual: [0] sentence:  why wont my jquery appear in safari bad safari !!!
+i: 221 pred: [0.8780383] actual: [1] sentence:  : jquery tools javascript for the web
+i: 222 pred: [0.7303308] actual: [1] sentence:  all about and more
+i: 225 pred: [0.9408596] actual: [1] sentence:  i spent most of my day reading a jquery book now to start drinking some
+i: 226 pred: [0.7448461] actual: [1] sentence:  how to implement a news with jquery and ten lines of code
+i: 227 pred: [0.79084647] actual: [1] sentence:  whats buffet doing? kicks butt in battle of the posted
+i: 228 pred: [0.8418125] actual: [1] sentence:  super a great weekend read here from buffet but a
+i: 230 pred: [0.9763791] actual: [1] sentence:  reading michael the python years great book i also recommend buffet &amp; bio
+i: 231 pred: [0.7721156] actual: [1] sentence:  i im down with if i have to its a good id be closer to id enjoy it
+i: 232 pred: [0.01110667] actual: [0] sentence:  i cant watch tv without a tivo and after all these the dvr still sucks html
+i: 233 pred: [0.9486961] actual: [1] sentence:  id say some sports writers are idiots for saying is one of the best ever in tennis is the best ever in tennis
+i: 234 pred: [0.30877697] actual: [0] sentence:  i still love my but reading the new york times on it does not feel natural i miss the ads
+i: 235 pred: [0.66576153] actual: [1] sentence:  i love my no more of books to trip over on the way to the
+i: 237 pred: [0.35368934] actual: [0] sentence:  its not so much my obsession with cell but the im a slave to forever because of it :)
+i: 239 pred: [0.6668264] actual: [1] sentence:  where did you read about support just or will o2 be joining in?
+i: 242 pred: [0.59376884] actual: [1] sentence:  got my wave invite! extra excited! too bad i have class now but ill play with it soon enough!
+i: 243 pred: [0.10482281] actual: [0] sentence:  looks like has gone down too many tweets from
+i: 246 pred: [0.9850452] actual: [1] sentence:  thanks so much!!! from one of your *very* happy winners ; ) i was so fabulous thank you!
+i: 247 pred: [0.0485163] actual: [0] sentence:  man i kinda dislike apple right now case in the iphone wish there was a video recorder app please??
+i: 248 pred: [0.71495694] actual: [1] sentence:  i have a (&amp; sony like it! physical device feels good font is nice pg turns are enuf a little
+i: 249 pred: [0.51265067] actual: [1] sentence:  the seems the best but will it work in the uk and where can i get one?
+i: 250 pred: [0.95977235] actual: [1] sentence:  i have a google addiction thank you for pointing that hahaha
+i: 252 pred: [0.69905263] actual: [1] sentence:  off to the bank to get my new visa platinum card
+i: 254 pred: [0.9121636] actual: [1] sentence:  has a date with bobby and gut from food network
+i: 255 pred: [0.98323417] actual: [1] sentence:  excited about seeing bobby and guy tomorrow at the great american food &amp; music
+i: 256 pred: [0.9729055] actual: [1] sentence:  gonna go see bobby 2moro at eat and drink gonna be good
+i: 257 pred: [0.96697724] actual: [1] sentence:  cant wait for the great american food and music festival at tomorrow mmm and bobby yes please
+i: 260 pred: [0.10127944] actual: [0] sentence:  7 hours 7 hours of normally solid as a rock 7 hours of latex complaining at the slightest thing i cant take any more
+i: 261 pred: [0.9382341] actual: [1] sentence:  how to track with social
+i: 264 pred: [0.73144495] actual: [1] sentence:  twitter stock f 12:00
+i: 265 pred: [0.9709643] actual: [1] sentence:  getting ready to test out some burger this weekend bobby has some great to try thanks bobby
+i: 266 pred: [0.92816854] actual: [1] sentence:  @johncmayer is bobby joining you?
+i: 267 pred: [0.9385307] actual: [1] sentence:  i so in love with bobby he is my favorite rt you need a place in phoenix we have great peppers here!
+i: 269 pred: [0.96814597] actual: [1] sentence:  using linux and loving it so much nicer than windows looking forward to using the latex
+i: 270 pred: [0.64831233] actual: [1] sentence:  after using latex a any other mathematics just looks hideous
+i: 271 pred: [0.8261789] actual: [1] sentence:  ask latex or submitted by
+i: 272 pred: [0.06965025] actual: [0] sentence:  on that i hate word i hate pages i hate latex i said it i hate latex all you can come kill me now
+i: 273 pred: [0.81850725] actual: [1] sentence:  ahhh back in a text editing environment i &lt;3 latex
+i: 274 pred: [0.20470048] actual: [0] sentence:  trouble in i see hmm so far away
+i: 275 pred: [0.00836636] actual: [0] sentence:  reading the tweets coming out of the whole thing is terrifying and incredibly sad
